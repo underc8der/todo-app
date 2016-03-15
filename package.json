@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "this application will be covered the creation and management of task to be complete for the people who usually forgot the kind of thinks that they must be complete during the day or a period",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underc8der/todo-app.git"
+  },
+  "author": "underc8der",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/underc8der/todo-app/issues"
+  },
+  "homepage": "https://github.com/underc8der/todo-app#readme"
+}
